@@ -21,7 +21,7 @@
 </head>
 <body>
     <div class="container">
-    <h2>Mencek Ongkos Kirim</h2>
+    <h2>Portal Untuk Cek Ongkos Kirim Se Indonesia</h2>
     <form method="post" action="<?php echo site_url('Main/cekongkir') ?>">
         <div class="form-group">
         <label">Pilih Asal Kota </label>
